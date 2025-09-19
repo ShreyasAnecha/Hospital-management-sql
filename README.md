@@ -16,5 +16,5 @@ It manages patients, doctors, appointments, billing, and billing items (consulta
 - Generate detailed bill reports per patient.  
 - Show unpaid bills and total revenue per doctor.  
 
-## 📸 EER Diagram (Optional)
+## 📸 EER Diagram
 ![ER Diagram](EER_diagram.png)
